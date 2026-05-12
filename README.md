@@ -1,4 +1,5 @@
 
+
 # Bill Splitter (C# Console App)
 
 A simple C# console program that splits a bill amount equally among a given number of people.
